@@ -7,6 +7,11 @@ public class Class001 {
         System.out.println(x+y);
         System.out.println("Versiyon 1 gerçekleştirildi");
 
+        // Versiyon 2 çalışması
+        int z = 4;
+        System.out.println(x+y+z);
+
+
 
     }
 }
